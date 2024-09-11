@@ -1,0 +1,7 @@
+POST http://localhost:3333/goals
+Content-Type: application/json
+
+{
+  "title": "My first goal",
+  "desiredWeeklyFrequency": 2
+}
